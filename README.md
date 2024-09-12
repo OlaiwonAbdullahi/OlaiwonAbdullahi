@@ -79,8 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OlaiwonAbdullahi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlaiwonAbdullahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=OlaiwonAbdullahi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  [![OlaiwonAbdullahi's GitHub | Stats](https://stats.quira.sh/OlaiwonAbdullahi/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=OlaiwonAbdullahi)
-  [![OlaiwonAbdullahi's GitHub | Languages Over Time](https://stats.quira.sh/OlaiwonAbdullahi/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=OlaiwonAbdullahi)
+ <img src="https://stats.quira.sh/OlaiwonAbdullahi/github?theme=dark"/>
+ <img src="https://stats.quira.sh/OlaiwonAbdullahi/languages-over-time?theme=dark"/>
+  
   <img src="https://github-profile-trophy.vercel.app?username=OlaiwonAbdullahi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlaiwonAbdullahi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
