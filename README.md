@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullahi</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey👋%20I'm%20Abdullahi&fontSize=50&animation=twinkling"/>
+
 <h3 align="center">A Dedicated Frontend developer from Nigeria aimed at solving complex problem in the society using 1's and 0's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaiwonabdullahi&label=Profile%20views&color=0e75b6&style=flat" alt="olaiwonabdullahi" /> </p>
