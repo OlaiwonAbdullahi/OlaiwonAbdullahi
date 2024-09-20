@@ -3,7 +3,7 @@
 <h3 align="center">A Dedicated Frontend developer from Nigeria aimed at solving complex problem in the society using 1's and 0's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaiwonabdullahi&label=Profile%20views&color=0e75b6&style=flat" alt="olaiwonabdullahi" /> </p>
-<img src="https://wakatime.com/badge/user/ea1f43c6-eb61-4ba2-ad6d-427003734246/project/8513a4e9-2a09-45ab-a995-93682c58b47f.svg"/>
+<img src="https://wakatime.com/badge/user/ea1f43c6-eb61-4ba2-ad6d-427003734246.svg"/>
 
 <p align="left"> <a href="https://twitter.com/abdullahiola_05" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahiola_05?logo=twitter&style=for-the-badge" alt="abdullahiola_05" /></a> </p>
 
